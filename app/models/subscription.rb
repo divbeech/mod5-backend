@@ -1,4 +1,4 @@
 class Subscription < ApplicationRecord
-    belongs_to: :user
-    belongs_to: :klass
+    belongs_to :user
+    belongs_to :klass
 end
