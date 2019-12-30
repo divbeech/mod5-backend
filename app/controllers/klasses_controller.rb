@@ -37,4 +37,4 @@ class KlassesController < ApplicationController
     end
 
 end
-end
+
